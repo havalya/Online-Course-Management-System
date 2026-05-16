@@ -4,15 +4,13 @@
   <img src="https://socialify.git.ci/InumulaHavalya/JFSD-SDP/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="project-image">
 </p>
 
-<p id="description">Our platform Student Course Management System simplifies the learning experience by combining course engagement performance evaluation and progress monitoring. This platform promotes student involvement by providing easy-to-use navigation a centralized resource hub and interactive communication tools. The system's adaptability enhances administrative efficiency and elevates the learning experience in various educational contexts.</p>
+<p id="description">Our platform Online Course Management System simplifies the learning experience by combining course engagement performance evaluation and progress monitoring. This platform promotes student involvement by providing easy-to-use navigation a centralized resource hub and interactive communication tools. The system's adaptability enhances administrative efficiency and elevates the learning experience in various educational contexts.</p>
 
 <h2>🚀 Demo</h2>
 
 [https://tinyurl.com/AcadameX](https://tinyurl.com/AcadameX)
 
 <h2>Project Screenshots:</h2>
-
-## Output Screenshots
 
 <img src="./Screenshots/Screenshot%202026-05-15%20231338(1).png" alt="project-screenshot" width="300"/>
 
