@@ -1,6 +1,8 @@
-<h1 align="center" id="title">Student Course Management System</h1>
+<h1 align="center" id="title">Online Course Management System</h1>
 
-<p align="center"><img src="https://socialify.git.ci/venkataramanabaratam1/JFSD-SDP/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center">
+  <img src="https://socialify.git.ci/InumulaHavalya/JFSD-SDP/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="project-image">
+</p>
 
 <p id="description">Our platform Student Course Management System simplifies the learning experience by combining course engagement performance evaluation and progress monitoring. This platform promotes student involvement by providing easy-to-use navigation a centralized resource hub and interactive communication tools. The system's adaptability enhances administrative efficiency and elevates the learning experience in various educational contexts.</p>
 
@@ -10,26 +12,27 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c2bbe923-cb26-4063-9b1c-5fb3d3e90cf6" alt="project-screenshot" width="280" height="600/">
+## Output Screenshots
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/276eae90-cae6-4ce7-91e6-c58e844c5d6f" alt="project-screenshot" width="280" height="600/">
+<img src="./Screenshots/Screenshot%202026-05-15%20231338(1).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/e2b90ccd-c769-468d-867a-ad330c2a6792" alt="project-screenshot" width="400" height="400/">
+<img src="./Screenshots/502425556-f1678781-e8ee-4e17-9df6-22a0306ea651(2).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/bc2dbbfc-f368-4032-a75f-0411e16ee3dd" alt="project-screenshot" width="300" height="600/">
+<img src="./Screenshots/502425642-599b4885-b4a4-4429-be21-ce2bacc3ded9(3).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/f877eb4f-c4ac-4a05-9419-4d3089ba4e2a" alt="project-screenshot" width="300" height="600/">
-+
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/896e9ed3-95ed-4b99-a967-1859902cfe7d" alt="project-screenshot" width="300" height="600/">
+<img src="./Screenshots/502425683-9d974441-f6e5-466d-aec6-04f5a23a5c4e(4).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/9162e4e6-62f2-4282-af62-120c6ca83fab" alt="project-screenshot" width="300" height="600/">
+<img src="./Screenshots/502425709-916115c8-7a9a-4479-8a80-d1909ccb8087(5).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/09ca176f-e3c6-4655-a7bc-1913b943264e" alt="project-screenshot" width="400" height="700/">
+<img src="./Screenshots/502425764-16bfe484-953e-4557-8046-a0e672533132(6).png" alt="project-screenshot" width="300"/>
 
-<img src="https://github.com/vachaspathi6/JFSD-SDP/assets/108755779/c40967d8-492a-45a5-8677-55bfbf117ac3" alt="project-screenshot" width="500" height="700/">
+<img src="./Screenshots/502425826-9773774c-d128-467d-bb9b-a135b2e2af0a(7).png" alt="project-screenshot" width="300"/>
 
-  
-  
+<img src="./Screenshots/502425871-21268b01-0991-40e9-8579-81c31f064d1c(8).png" alt="project-screenshot" width="300"/>
+
+<img src="./Screenshots/502426749-404ee53b-a810-437e-98d6-f34712fb454a(9).png" alt="project-screenshot" width="300"/>
+
+
 <h2>🧐 Features</h2>
 
 Here're some of the project's best features:
