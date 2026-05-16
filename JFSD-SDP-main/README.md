@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Online Course Management System</h1>
 
 <p align="center">
-  <img src="https://socialify.git.ci/InumulaHavalya/JFSD-SDP/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="project-image">
+  <img src="https://socialify.git.ci/havalya/Online-Course-Management-System/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Online-Course-Management-System" width="640" height="320" />
 </p>
 
 <p id="description">Our platform Online Course Management System simplifies the learning experience by combining course engagement performance evaluation and progress monitoring. This platform promotes student involvement by providing easy-to-use navigation a centralized resource hub and interactive communication tools. The system's adaptability enhances administrative efficiency and elevates the learning experience in various educational contexts.</p>
@@ -74,13 +74,3 @@ Technologies used in the project:
 5. Students can log in at `/student` using their credentials.
 6. Register for courses, complete assigned tasks, and participate in quizzes.
 
-### Contributors
-
-- [Vachaspathi Gnaneswar](https://github.com/vachaspathi6)
-- [Venkataramana Baratam](https://github.com/venkataramanabaratam1)
-- [Suraj Kumar](https://github.com/surajk7725)
-
-
-<h2>🛡️ License:</h2>
-
-This project is licensed under the [MIT License](LICENSE).
